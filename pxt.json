@@ -1,8 +1,9 @@
 {
-    "name": "nina",
+    "name": "nina canaque",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3"
     },
     "files": [
         "main.blocks",
@@ -19,7 +20,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "4.0.12",
+        "target": "4.0.14",
         "targetId": "arcade"
     },
     "supportedTargets": [
